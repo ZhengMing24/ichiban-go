@@ -1,0 +1,8 @@
+node_modules
+dist
+.git
+.env
+*.db
+backend/ichibango.db
+backend/tmp
+README.md
